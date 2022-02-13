@@ -8,7 +8,7 @@ This program can be used to remove variable labels and/or value labels from a li
 
 ## Example
 **removeLabels(variable = ["Q1", "Q2", "Q3", "Race", "Female"],  
-value = ["Female"])  
+value = ["Female"])**  
 * This command would remove the variable labels from the Q1, Q2, Q3, Race, and Female variables.
 * It would also remove the value labels from the Female variable.
 
