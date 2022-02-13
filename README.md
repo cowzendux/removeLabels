@@ -1,5 +1,5 @@
 # removeLabels
-This program can be used to remove variable labels and/or value labels from a list of variables
+This is an SPSS Python macro that can be used to remove variable labels and/or value labels from a list of variables
 
 ## Usage
 **removeLabels(variable, value)**
