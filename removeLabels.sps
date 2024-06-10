@@ -13,7 +13,7 @@
 * labels removed. You can also set variable = "All" to remove all variable labels, or to None
 * to remove no variable labels. This is set to None by default.
 
-begin program python.
+BEGIN PROGRAM PYTHON3.
 import spss
 
 def removeLabels(variable = None, value = None):
